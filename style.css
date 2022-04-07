@@ -44,3 +44,9 @@ main h2 {
 .stans-styles {
     background-color:lightgray;
 }
+
+.francis-styles {
+    color: white;
+    background-color: black
+    padding: 4px;
+}
